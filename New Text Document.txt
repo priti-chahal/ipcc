@@ -1,4 +1,4 @@
-<distionary title="ipcc_chapter08" version="0.0.1">
+<dictionary title="ipcc_chapter08" version="0.0.1">
 <entry term="urbanization" count="92" wikidataID="Q161078" desc="longterm population movements (shift) from rural to urban areas;gradual increase in the proportion of people living in urban areas, and the ways in which each society adapts to the change;process by which towns and cities are formed and become larger">
 <entry term="GHG" name="green house gases" count="175" wikidataID="Q167336" desc="gas in an atmosphere of a planet (usually Earth) that absorbs and emits radiation within the thermal infrared range and causes the greenhouse effect">
 <entry term="carbon footprint" count="3" wikidataID="Q310667" desc="total set of greenhouse gas emissions caused by an individual, event, organisation, or product, expressed as carbon dioxide equivalent">
