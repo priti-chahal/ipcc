@@ -1,8 +1,20 @@
-<dictionary title="ipcc_chapter08" version="0.0.1">
-<entry term="urbanization" count="92" wikidataID="Q161078" desc="longterm population movements (shift) from rural to urban areas;gradual increase in the proportion of people living in urban areas, and the ways in which each society adapts to the change;process by which towns and cities are formed and become larger">
-<entry term="GHG" name="green house gases" count="175" wikidataID="Q167336" desc="gas in an atmosphere of a planet (usually Earth) that absorbs and emits radiation within the thermal infrared range and causes the greenhouse effect">
-<entry term="carbon footprint" count="3" wikidataID="Q310667" desc="total set of greenhouse gas emissions caused by an individual, event, organisation, or product, expressed as carbon dioxide equivalent">
-<entry term="mitigation" count="370" wikidataID="?" desc="Mitigation is the reduction of something harmful or the reduction of its harmful effects">
-<entry term="renewable energy" count="47" wikidataID="Q12705" desc="energy that is collected from renewable sources">
-<entry term="electrification" count="59" wikidataID="Q1076056" desc="process of converting a device, process, or society to the use of electric power
-<entry term="carbon lock-in" count="22" wikidataID="Q5037970" desc="">
+<distionary title="ipcc_chapter08" version="0.0.1">
+<entry term="urbanization" wikidataID="Q161078" desc="longterm population movements (shift) from rural to urban areas;gradual increase in the proportion of people living in urban areas, and the ways in which each society adapts to the change;process by which towns and cities are formed and become larger"></entry>
+<entry term="GHG" name="green house gases" wikidataID="Q167336" desc="gas in an atmosphere of a planet (usually Earth) that absorbs and emits radiation within the thermal infrared range and causes the greenhouse effect"></entry>
+<entry term="carbon footprint" wikidataID="Q310667" desc="total set of greenhouse gas emissions caused by an individual, event, organisation, or product, expressed as carbon dioxide equivalent"></entry>
+<entry term="mitigation" wikidataID="?" desc="Mitigation is the reduction of something harmful or the reduction of its harmful effects"></entry>
+<entry term="renewable energy" wikidataID="Q12705" desc="energy that is collected from renewable sources"></entry>
+<entry term="electrification" wikidataID="Q1076056" desc="process of converting a device, process, or society to the use of electric power"></entry>
+<entry term="carbon lock-in" wikidataID="Q5037970" desc="Carbon lock-in refers to the self-perpetuating inertia created by large fossil fuel-based energy systems that inhibits public and private efforts to introduce alternative energy technologies"></entry>
+<entry term="AFOLU" name="Agriculture, Forestry and Other Land Use" wikidataID="" desc=""></entry>
+<entry term="concomitant" wikidataID="Q16769663" desc="Concomitance is the condition of accompanying or coexisting"></entry>
+<entry term="resilience" wikidataID="Q527605" desc=""></entry>
+<entry term="interventions" wikidataID="Q365681" desc=""></entry>
+<entry term="jurisdiction" wikidataID="Q471855" desc="practical authority granted to a formally constituted legal body or to a political leader to deal with legal matters"></entry>
+<entry term="green infrastructure" wikidataID="Q3427027" desc="Green infrastructure or blue-green infrastructure refers to a network that provides the “ingredients” for solving urban and climatic challenges by building with nature"></entry>
+<entry term="IPCC" name="Intergovernmental Panel on Climate Change " wikidataID="Q171183" desc=" (IPCC) is an intergovernmental body of the United Nations responsible for advancing knowledge on human-induced climate change"></entry>
+<entry term="standalone" wikidataID="" desc=""></entry>
+<entry term="Spatial Planning" wikidataID="Q149013" desc="technique for physical organisation of space"></entry>
+<entry term="UN DESA" name="United Nations Department of Economic and Social Affairs " wikidataID="Q2671637" desc="government organization in New York, United States"></entry>
+<entry term="Traction " wikidataID="Q437730" desc=""></entry>
+<entry term="Global Warming" wikidataID="Q54745" desc="Global warming refers to climate change, the mainly natural-caused rise of the average temperature of the Earth's climate system"></entry>
